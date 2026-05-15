@@ -6,6 +6,8 @@ This is a README! It tells you what is in the GitHub repo.
 
 All READMEs for this class should have the following sections:
 
+changing readme
+
 ## General information
 
 This repo provides examples of linear models using two datasets: one on abalone shell growth, and the other on temperature and elevation relationships.
