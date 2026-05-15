@@ -2,9 +2,7 @@
 
 Spring 2026
 
-This is a README! It tells you what is in the GitHub repo.
-
-All READMEs for this class should have the following sections:
+Minor change
 
 ## General information
 
