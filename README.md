@@ -2,10 +2,6 @@
 
 Spring 2026
 
-Minor change
-
-changing readme
-
 ## General information
 
 This repo provides examples of linear models using two datasets: one on abalone shell growth, and the other on temperature and elevation relationships.
