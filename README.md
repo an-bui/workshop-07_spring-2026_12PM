@@ -21,3 +21,5 @@ The `data` folder includes all data files for linear model code.
 ## Rendered output
 
 The rendered output for the abalone linear model is [here](https://github.com/an-bui/workshop-07_spring-2026_12PM/blob/main/code/abalone-example.pdf).
+
+The rendered output for the Sonadora temperature model is [here](https://github.com/an-bui/workshop-07_spring-2026_12PM/blob/main/code/sonadora-temperature-example.pdf).
